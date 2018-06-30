@@ -1,0 +1,5 @@
+com/YiShun/service/UserService.class
+com/YiShun/service/impl/UserServiceImpl.class
+com/YiShun/service/BgmService.class
+com/YiShun/service/impl/BgmServiceImpl.class
+com/YiShun/service/impl/VideoServiveImpl.class

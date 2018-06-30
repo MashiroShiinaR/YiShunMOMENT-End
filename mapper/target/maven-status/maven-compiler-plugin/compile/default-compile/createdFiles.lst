@@ -1,0 +1,9 @@
+com/YiShun/mapper/UsersMapper.class
+com/YiShun/mapper/VideosMapper.class
+com/YiShun/mapper/UsersLikeVideosMapper.class
+com/YiShun/mapper/SearchRecordsMapper.class
+com/YiShun/mapper/VideosMapperCustom.class
+com/YiShun/mapper/UsersFansMapper.class
+com/YiShun/mapper/BgmMapper.class
+com/YiShun/mapper/CommentsMapper.class
+com/YiShun/mapper/UsersReportMapper.class

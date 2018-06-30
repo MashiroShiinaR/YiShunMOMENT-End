@@ -1,0 +1,3 @@
+本地文件目录要在BasicController里改路径
+
+ffmpeg的路径也要改
